@@ -48,11 +48,14 @@ Since 2013 I have been professionally engaged in web development. My main areas 
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
 </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<a href="[https://reactjs.org/](https://react.dev/)" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
 </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
+</a>
+<a href="https://nextjs.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next.js" width="40" height="40" />
 </a>
 
 ### Backend Development
